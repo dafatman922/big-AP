@@ -3,6 +3,8 @@
 ## Required Software
 - [Steam release of A Hat in Time](https://store.steampowered.com/app/253230/A_Hat_in_Time/)
 
+- [Latest Release of Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases)
+
 - [Archipelago Workshop Mod for A Hat in Time](https://steamcommunity.com/sharedfiles/filedetails/?id=3026842601)
 
 
